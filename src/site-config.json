@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Bakersfield HVAC Experts",
+    "phone": "+16612496033",
+    "category": "HVAC contractor",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Bakersfield's Trusted HVAC Experts",
+      "heroSubline": "Reliable heating and cooling solutions for homes and businesses. We handle Bakersfield's toughest climate challenges.",
+      "aboutTitle": "Keeping Bakersfield Comfortable for Over a Decade",
+      "aboutText": [
+        "Bakersfield HVAC Experts started with a simple goal: to provide honest, reliable HVAC services to our neighbors. We understand the brutal summer heat and the occasional chilly winter nights here, and we're dedicated to ensuring your home or business is comfortable year-round.",
+        "We're not just about fixing HVAC systems; we're about building lasting relationships. We believe in transparent pricing, clear communication, and quality workmanship. Our team takes pride in diagnosing problems accurately and offering effective, long-term solutions.",
+        "Bakersfield is our home, and we're committed to giving back. We actively support local initiatives and strive to be a responsible member of the community. We treat every customer like a neighbor, because that's exactly who they are."
+      ],
+      "valueProps": [
+        {
+          "title": "Rapid Response",
+          "description": "We understand that HVAC emergencies don't wait. We offer fast, reliable service, getting your system back up and running quickly."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team consists of highly trained and certified technicians with years of experience servicing all types of HVAC equipment."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprises. We provide upfront, honest pricing so you know exactly what to expect."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We stand behind our work. We use only the highest quality parts and materials to ensure long-lasting performance and reliability."
+        }
+      ],
+      "ctaHeadline": "Get a Free Quote Today!",
+      "ctaSubline": "Experience the Bakersfield HVAC Experts difference. Contact us for a reliable and affordable solution to your HVAC needs."
+    },
+    "services": [
+      {
+        "slug": "ac-repair",
+        "name": "AC Repair",
+        "shortDescription": "Fast and reliable AC repair services to beat the Bakersfield heat.",
+        "description": "When your AC breaks down in the middle of a Bakersfield summer, you need a reliable team to get it back up and running fast. Bakersfield HVAC Experts specializes in AC repair for all makes and models, from older units in Oleander-Sunset to newer systems in Seven Oaks. We diagnose the problem quickly and efficiently, providing transparent pricing and lasting solutions. Our technicians are trained to handle everything from refrigerant leaks and compressor failures to faulty wiring and thermostat issues. We understand the importance of a properly functioning AC system in Bakersfield's extreme climate, and we're committed to providing prompt and professional service to keep you cool and comfortable. We stock common parts to minimize downtime and get your AC back online as quickly as possible. Don't suffer through another sweltering Bakersfield day – call Bakersfield HVAC Experts for reliable AC repair.",
+        "process": [
+          "Step 1: Schedule an appointment that fits your schedule.",
+          "Step 2: Our technician will arrive on time and diagnose the issue.",
+          "Step 3: We provide a clear and upfront estimate for the repair.",
+          "Step 4: With your approval, we complete the repair efficiently and effectively."
+        ],
+        "benefits": [
+          "Reduced energy bills",
+          "Improved indoor air quality",
+          "Extended AC lifespan",
+          "Increased comfort"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an AC repair request?",
+            "answer": "We prioritize AC repair calls, especially during peak season. We strive to provide same-day service whenever possible."
+          },
+          {
+            "question": "Do you service all brands of AC units?",
+            "answer": "Yes, our technicians are trained and experienced in servicing all major brands of AC units."
+          },
+          {
+            "question": "What are some signs that my AC needs repair?",
+            "answer": "Common signs include weak airflow, strange noises, unusual odors, and inconsistent cooling."
+          }
+        ]
+      },
+      {
+        "slug": "ac-installation",
+        "name": "AC Installation",
+        "shortDescription": "Expert AC installation for homes and businesses in Bakersfield.",
+        "description": "Installing a new AC system is a significant investment, and it's crucial to choose the right unit and a qualified installer. Bakersfield HVAC Experts provides expert AC installation services for homes and businesses throughout Bakersfield. We'll assess your cooling needs, considering factors like square footage, insulation, and sun exposure, to recommend the perfect AC system for your property. We work with all major brands and offer a variety of energy-efficient models to help you save money on your utility bills. Our installation process is meticulous and thorough, ensuring proper sizing, airflow, and refrigerant levels. We'll also explain how to operate and maintain your new system to maximize its lifespan. Whether you're building a new home in Seven Oaks or upgrading an existing system in Oleander-Sunset, Bakersfield HVAC Experts has the expertise to handle your AC installation needs. We ensure proper installation for optimal performance and energy efficiency, keeping you comfortable all summer long.",
+        "process": [
+          "Step 1: Schedule a free consultation to assess your cooling needs.",
+          "Step 2: We'll recommend the best AC system for your budget and requirements.",
+          "Step 3: Our team will expertly install your new AC system.",
+          "Step 4: We'll provide thorough training on how to operate and maintain your system."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Lower utility bills",
+          "Enhanced comfort",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know what size AC unit I need?",
+            "answer": "Our technicians will perform a load calculation to determine the appropriate size AC unit for your home or business."
+          },
+          {
+            "question": "Do you offer financing options for AC installation?",
+            "answer": "Yes, we offer flexible financing options to make AC installation more affordable."
+          },
+          {
+            "question": "How long does AC installation typically take?",
+            "answer": "The installation time depends on the complexity of the project, but it typically takes one to two days."
+          }
+        ]
+      },
+      {
+        "slug": "furnace-repair",
+        "name": "Furnace Repair",
+        "shortDescription": "Reliable furnace repair services to keep you warm during Bakersfield winters.",
+        "description": "While Bakersfield winters are mild, a functioning furnace is still essential for comfortable living. Bakersfield HVAC Experts offers reliable furnace repair services to keep your home warm and cozy. We service all makes and models of furnaces, from older gas furnaces to newer high-efficiency models. Our technicians are skilled in diagnosing and repairing a wide range of furnace problems, including ignition issues, blower motor failures, and gas leaks. We understand the importance of safety when dealing with gas appliances, and we adhere to strict safety protocols. We prioritize your safety and comfort, providing prompt and professional furnace repair services. Don't let a malfunctioning furnace leave you shivering – call Bakersfield HVAC Experts for fast and reliable repair.",
+        "process": [
+          "Step 1: Contact us to schedule a furnace repair appointment.",
+          "Step 2: Our technician will thoroughly inspect your furnace.",
+          "Step 3: We'll provide a detailed explanation of the problem and repair options.",
+          "Step 4: We'll complete the repair efficiently and safely."
+        ],
+        "benefits": [
+          "Improved heating efficiency",
+          "Reduced energy costs",
+          "Enhanced safety",
+          "Increased comfort"
+        ],
+        "faq": [
+          {
+            "question": "What are some signs that my furnace needs repair?",
+            "answer": "Common signs include strange noises, a yellow pilot light, and inconsistent heating."
+          },
+          {
+            "question": "Is it safe to operate a furnace with a cracked heat exchanger?",
+            "answer": "No, a cracked heat exchanger can release dangerous carbon monoxide into your home. It's essential to have it repaired or replaced immediately."
+          },
+          {
+            "question": "How often should I have my furnace serviced?",
+            "answer": "We recommend having your furnace serviced annually to ensure optimal performance and safety."
+          }
+        ]
+      },
+      {
+        "slug": "furnace-installation",
+        "name": "Furnace Installation",
+        "shortDescription": "Professional furnace installation services for maximum heating efficiency.",
+        "description": "Upgrading to a new, energy-efficient furnace can significantly reduce your heating costs and improve your home's comfort. Bakersfield HVAC Experts offers professional furnace installation services tailored to your specific needs. We'll assess your heating requirements and recommend the best furnace for your home and budget. We install all types of furnaces, including gas, electric, and propane models. Our installation process is meticulous, ensuring proper venting, gas line connections, and electrical wiring. We'll also calibrate your new furnace to ensure optimal performance and energy efficiency. Trust Bakersfield HVAC Experts for a seamless and professional furnace installation experience. We ensure proper installation for efficient heating and long-term reliability.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your heating needs.",
+          "Step 2: We'll recommend the best furnace for your home and budget.",
+          "Step 3: Our team will expertly install your new furnace.",
+          "Step 4: We'll provide thorough training on how to operate your system."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Lower heating costs",
+          "Enhanced comfort",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right furnace for my home?",
+            "answer": "Our technicians will help you choose the right furnace based on your heating needs, budget, and home's characteristics."
+          },
+          {
+            "question": "What is the difference between a single-stage and a two-stage furnace?",
+            "answer": "A single-stage furnace operates at only one speed, while a two-stage furnace has two speeds for more precise temperature control and energy efficiency."
+          },
+          {
+            "question": "Do you offer warranties on furnace installation?",
+            "answer": "Yes, we offer comprehensive warranties on both the furnace and the installation."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services.",
+        "description": "Over time, dust, pollen, allergens, and other contaminants can accumulate in your HVAC ductwork, impacting your indoor air quality and potentially triggering respiratory problems. Bakersfield HVAC Experts offers professional duct cleaning services to remove these contaminants and improve the air you breathe. We use powerful vacuum equipment and specialized brushes to thoroughly clean your ductwork, removing dust, debris, and allergens. Our duct cleaning services can help reduce allergy symptoms, improve energy efficiency, and create a healthier indoor environment for your family. Especially important in Bakersfield where air quality is often poor, duct cleaning can make a noticeable difference. We are committed to improving your indoor air quality, promoting a healthier and more comfortable home environment.",
+        "process": [
+          "Step 1: We'll inspect your ductwork to assess the level of contamination.",
+          "Step 2: We'll use powerful vacuum equipment to remove dust and debris.",
+          "Step 3: We'll sanitize your ductwork to eliminate bacteria and mold.",
+          "Step 4: We'll provide a final inspection to ensure thorough cleaning."
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Reduced allergy symptoms",
+          "Enhanced energy efficiency",
+          "Elimination of odors"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my ducts cleaned?",
+            "answer": "We recommend having your ducts cleaned every 3-5 years, or more frequently if you have allergies or pets."
+          },
+          {
+            "question": "Can duct cleaning help with allergies?",
+            "answer": "Yes, duct cleaning can remove allergens like dust mites, pollen, and pet dander from your ductwork, reducing allergy symptoms."
+          },
+          {
+            "question": "Is duct cleaning messy?",
+            "answer": "No, our duct cleaning process is designed to be clean and efficient, minimizing disruption to your home."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-maintenance",
+        "name": "HVAC Maintenance",
+        "shortDescription": "Preventative HVAC maintenance to keep your system running smoothly.",
+        "description": "Regular HVAC maintenance is essential for ensuring optimal performance, energy efficiency, and longevity of your system. Bakersfield HVAC Experts offers comprehensive HVAC maintenance services to keep your system running smoothly year-round. Our maintenance services include cleaning coils, checking refrigerant levels, inspecting electrical components, and lubricating moving parts. By scheduling regular maintenance, you can prevent costly repairs, extend the lifespan of your system, and improve your indoor comfort. We provide thorough inspections and tune-ups, identifying and addressing potential issues before they become major problems. Trust us to keep your HVAC system in peak condition, ensuring reliable performance and energy savings.",
+        "process": [
+          "Step 1: Schedule your annual HVAC maintenance appointment.",
+          "Step 2: Our technician will perform a thorough inspection of your system.",
+          "Step 3: We'll clean and lubricate all moving parts.",
+          "Step 4: We'll check refrigerant levels and electrical connections."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Reduced repair costs",
+          "Extended system lifespan",
+          "Enhanced comfort"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule HVAC maintenance?",
+            "answer": "We recommend scheduling HVAC maintenance annually, preferably in the spring for AC and fall for heating."
+          },
+          {
+            "question": "What are the benefits of regular HVAC maintenance?",
+            "answer": "Regular maintenance can improve energy efficiency, reduce repair costs, extend system lifespan, and improve indoor air quality."
+          },
+          {
+            "question": "What is included in an HVAC maintenance service?",
+            "answer": "Our maintenance service includes cleaning coils, checking refrigerant levels, inspecting electrical components, and lubricating moving parts."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Bakersfield",
+        "slug": "bakersfield-ca",
+        "state": "CA",
+        "content": "Bakersfield HVAC Experts is proud to serve the residents and businesses of Bakersfield, California. We understand the unique climate challenges in Kern County, from scorching summers to surprisingly chilly winters. Our team of highly trained and certified technicians is equipped to handle all your heating, ventilation, and air conditioning needs, ensuring your comfort and well-being year-round.\n\nFrom routine maintenance and repairs to complete system installations, we offer a comprehensive range of HVAC services tailored to Bakersfield homes and commercial properties. We are committed to providing prompt, reliable, and affordable solutions, using only the highest quality parts and equipment. Whether you're dealing with a broken air conditioner in the middle of summer or need to upgrade your furnace before winter, Bakersfield HVAC Experts is here to help.",
+        "localContext": "Bakersfield is a major agricultural hub and the ninth-largest city in California, known for its country music heritage and growing economy. We understand the community's needs and are dedicated to providing top-notch HVAC services.",
+        "nearbyAreas": [
+          "Oildale",
+          "Rosedale",
+          "Lamont"
+        ]
+      },
+      {
+        "city": "Oildale",
+        "slug": "oildale-ca",
+        "state": "CA",
+        "content": "Bakersfield HVAC Experts extends its expert services to the community of Oildale, CA. We recognize the specific needs of Oildale residents, considering the town's history and its proximity to Bakersfield. Our skilled technicians are ready to address all your HVAC concerns, ensuring your home or business remains comfortable regardless of the season.\n\nWe offer a full spectrum of HVAC services in Oildale, including air conditioning repair, furnace maintenance, and new system installations. We strive to provide prompt and efficient service, understanding the importance of a functioning HVAC system in the Kern County climate. Trust Bakersfield HVAC Experts for all your heating and cooling needs in Oildale.",
+        "localContext": "Oildale, located just north of Bakersfield, is a community with a strong sense of local pride and community spirit. Bakersfield HVAC Experts is dedicated to serving this community with reliable and affordable HVAC solutions.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Rosedale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Rosedale",
+        "slug": "rosedale-ca",
+        "state": "CA",
+        "content": "Bakersfield HVAC Experts is delighted to provide HVAC services to the growing community of Rosedale, CA. We understand the unique characteristics of Rosedale, from its agricultural roots to its modern suburban developments. Our experienced technicians are prepared to handle any and all HVAC challenges, ensuring your comfort and satisfaction.\n\nWe offer a wide range of HVAC services in Rosedale, including air conditioning installation, furnace repair, and duct cleaning. We are committed to delivering exceptional service and quality workmanship, using only the best materials and equipment. Whether you're a long-time resident or new to the area, Bakersfield HVAC Experts is your trusted partner for all your HVAC needs in Rosedale.",
+        "localContext": "Rosedale is a thriving community northwest of Bakersfield, known for its family-friendly atmosphere and beautiful residential areas. We're proud to serve the homes and businesses of Rosedale with top-quality HVAC services.",
+        "nearbyAreas": [
+          "Bakersfield",
+          "Oildale",
+          "Shafter"
+        ]
+      },
+      {
+        "city": "Shafter",
+        "slug": "shafter-ca",
+        "state": "CA",
+        "content": "Bakersfield HVAC Experts proudly serves the city of Shafter, CA with reliable and affordable HVAC services. We understand the importance of a functioning heating and cooling system in the Central Valley climate. Our team of skilled technicians is equipped to handle all your HVAC needs, from routine maintenance to emergency repairs.\n\nWe offer a comprehensive range of services in Shafter, including air conditioning repair, furnace installation, and ductwork services. We are committed to providing prompt, professional, and courteous service to all our customers in Shafter. Trust Bakersfield HVAC Experts to keep your home or business comfortable year-round.",
+        "localContext": "Shafter is a growing agricultural community in Kern County, known for its friendly residents and strong sense of community. We're committed to providing Shafter with the best HVAC services in the area.",
+        "nearbyAreas": [
+          "Wasco",
+          "Bakersfield",
+          "Rosedale"
+        ]
+      },
+      {
+        "city": "Wasco",
+        "slug": "wasco-ca",
+        "state": "CA",
+        "content": "Bakersfield HVAC Experts is dedicated to providing top-notch HVAC services to the residents and businesses of Wasco, CA. We understand the unique climate conditions in Wasco and offer tailored solutions to meet your specific needs. Our experienced technicians are ready to handle any HVAC challenge, ensuring your comfort and peace of mind.\n\nWe offer a full range of HVAC services in Wasco, including air conditioning maintenance, furnace repair, and new system installations. We are committed to providing prompt, reliable, and affordable service to all our customers. Trust Bakersfield HVAC Experts to keep your home or business comfortable throughout the year.",
+        "localContext": "Wasco is a charming city in Kern County, known for its agriculture and small-town charm. We're proud to serve the Wasco community with reliable and affordable HVAC services.",
+        "nearbyAreas": [
+          "Shafter",
+          "Lost Hills",
+          "McFarland"
+        ]
+      },
+      {
+        "city": "Lamont",
+        "slug": "lamont-ca",
+        "state": "CA",
+        "content": "Bakersfield HVAC Experts is pleased to offer its HVAC services to the community of Lamont, CA. We recognize the importance of a reliable heating and cooling system in the Central Valley climate. Our skilled technicians are ready to address all your HVAC concerns, ensuring your home or business remains comfortable throughout the year.\n\nWe offer a wide range of HVAC services in Lamont, including air conditioning repair, furnace maintenance, and duct cleaning. We are committed to providing exceptional service and quality workmanship, using only the best materials and equipment. Trust Bakersfield HVAC Experts for all your heating and cooling needs in Lamont.",
+        "localContext": "Lamont is a growing community southeast of Bakersfield, known for its agricultural heritage and strong community spirit. We're dedicated to providing Lamont with reliable and affordable HVAC solutions.",
+        "nearbyAreas": [
+          "Arvin",
+          "Bakersfield",
+          "Weedpatch"
+        ]
+      },
+      {
+        "city": "Arvin",
+        "slug": "arvin-ca",
+        "state": "CA",
+        "content": "Bakersfield HVAC Experts extends its expert HVAC services to the city of Arvin, CA. We understand the specific needs of Arvin residents, considering the local climate and community characteristics. Our skilled technicians are ready to address all your HVAC concerns, ensuring your home or business remains comfortable regardless of the season.\n\nWe offer a full spectrum of HVAC services in Arvin, including air conditioning installation, furnace repair, and new system installations. We strive to provide prompt and efficient service, understanding the importance of a functioning HVAC system in the Kern County climate. Trust Bakersfield HVAC Experts for all your heating and cooling needs in Arvin.",
+        "localContext": "Arvin is an agricultural community located southeast of Bakersfield, known for its rich history and close-knit community. Bakersfield HVAC Experts is dedicated to serving this community with reliable and affordable HVAC solutions.",
+        "nearbyAreas": [
+          "Lamont",
+          "Weedpatch",
+          "Bakersfield"
+        ]
+      },
+      {
+        "city": "Tehachapi",
+        "slug": "tehachapi-ca",
+        "state": "CA",
+        "content": "Bakersfield HVAC Experts is proud to extend our services to Tehachapi, CA. Nestled in the Tehachapi Mountains, this area experiences unique weather patterns, requiring HVAC systems that can handle both warm summers and cold winters. Our expert technicians are equipped to provide comprehensive HVAC solutions tailored to the specific needs of Tehachapi residents and businesses.\n\nWe offer a range of services in Tehachapi, from routine maintenance and repairs to complete system installations. We understand the importance of a reliable HVAC system, especially during extreme weather conditions. Bakersfield HVAC Experts is committed to delivering prompt, efficient, and affordable service, ensuring your comfort and peace of mind.",
+        "localContext": "Tehachapi is a mountain community known for its scenic beauty and wind energy production. Bakersfield HVAC Experts is dedicated to providing reliable and efficient HVAC services to the residents and businesses of Tehachapi.",
+        "nearbyAreas": [
+          "Mojave",
+          "California City",
+          "Rosamond"
+        ]
+      },
+      {
+        "city": "McFarland",
+        "slug": "mcfarland-ca",
+        "state": "CA",
+        "content": "Bakersfield HVAC Experts is pleased to offer our professional HVAC services to the community of McFarland, CA. Understanding the local climate and the importance of reliable heating and cooling, we provide a comprehensive range of services to meet your needs. Our certified technicians are ready to ensure your comfort throughout the year.\n\nWe offer air conditioning and heating repair, maintenance, and installation services in McFarland. Bakersfield HVAC Experts is committed to delivering quality workmanship and excellent customer service. Whether you require a routine check-up or a complete system overhaul, we are here to assist you.",
+        "localContext": "McFarland is a vibrant, primarily agricultural community known for its strong community bonds and family-oriented lifestyle. We are proud to offer our services to the residents and businesses of McFarland.",
+        "nearbyAreas": [
+          "Delano",
+          "Wasco",
+          "Shafter"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Our AC went out during the hottest week of the summer! Bakersfield HVAC Experts came out quickly and fixed it within a couple of hours. The technician was professional and explained everything clearly. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Furnace Installation",
+        "text": "We recently had Bakersfield HVAC Experts install a new furnace. The installation process was smooth, and the team was very knowledgeable. We're already noticing a difference in our heating bill.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "I was experiencing allergy symptoms, and someone suggested I get my ducts cleaned. Bakersfield HVAC Experts did a fantastic job! My air feels cleaner, and my allergies have improved.",
+        "date": "2025-03-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "AC Installation",
+        "text": "Great experience with Bakersfield HVAC Experts. They helped me choose the right AC unit for my home and the installation was quick and efficient. Very professional and reasonably priced.",
+        "date": "2024-06-10"
+      },
+      {
+        "name": "Susan L.",
+        "rating": 4,
+        "service": "HVAC Maintenance",
+        "text": "I've been using Bakersfield HVAC Experts for annual maintenance for the past few years. They are always on time, thorough, and provide excellent service. My HVAC system is running great thanks to them.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Prompt, professional, and honest. My AC unit was making a terrible noise and they quickly diagnosed the problem and provided a cost-effective solution. Will definitely use them again!",
+        "date": "2025-01-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Bakersfield HVAC Experts | Heating & AC",
+        "description": "Bakersfield's trusted HVAC contractor. AC & furnace repair, installation, maintenance. Call for a free quote!"
+      },
+      "about": {
+        "title": "About Bakersfield HVAC Experts",
+        "description": "Learn about Bakersfield HVAC Experts and our commitment to providing reliable HVAC services in the Bakersfield area."
+      },
+      "services": {
+        "title": "HVAC Services | Bakersfield HVAC Experts",
+        "description": "Comprehensive HVAC services in Bakersfield, CA. AC repair, furnace installation, duct cleaning, and more."
+      },
+      "contact": {
+        "title": "Contact Bakersfield HVAC Experts",
+        "description": "Contact Bakersfield HVAC Experts for all your HVAC needs. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Bakersfield HVAC Experts",
+        "description": "Read what our satisfied customers are saying about Bakersfield HVAC Experts."
+      },
+      "service-areas": {
+        "title": "Service Areas | Bakersfield HVAC Experts",
+        "description": "Bakersfield HVAC Experts provides HVAC services to Bakersfield and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair": "/images/service-ac-repair.webp",
+      "ac-installation": "/images/service-ac-installation.webp",
+      "furnace-repair": "/images/service-furnace-repair.webp",
+      "furnace-installation": "/images/service-furnace-installation.webp",
+      "duct-cleaning": "/images/service-duct-cleaning.webp",
+      "hvac-maintenance": "/images/service-hvac-maintenance.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair": {
+        "src": "/images/service-ac-repair.webp",
+        "srcset": "/images/service-ac-repair-400w.webp 400w, /images/service-ac-repair-800w.webp 800w, /images/service-ac-repair-1200w.webp 1200w, /images/service-ac-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "ac-installation": {
+        "src": "/images/service-ac-installation.webp",
+        "srcset": "/images/service-ac-installation-400w.webp 400w, /images/service-ac-installation-800w.webp 800w, /images/service-ac-installation-1200w.webp 1200w, /images/service-ac-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furnace-repair": {
+        "src": "/images/service-furnace-repair.webp",
+        "srcset": "/images/service-furnace-repair-400w.webp 400w, /images/service-furnace-repair-800w.webp 800w, /images/service-furnace-repair-1200w.webp 1200w, /images/service-furnace-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furnace-installation": {
+        "src": "/images/service-furnace-installation.webp",
+        "srcset": "/images/service-furnace-installation-400w.webp 400w, /images/service-furnace-installation-800w.webp 800w, /images/service-furnace-installation-1200w.webp 1200w, /images/service-furnace-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning": {
+        "src": "/images/service-duct-cleaning.webp",
+        "srcset": "/images/service-duct-cleaning-400w.webp 400w, /images/service-duct-cleaning-800w.webp 800w, /images/service-duct-cleaning-1200w.webp 1200w, /images/service-duct-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-maintenance": {
+        "src": "/images/service-hvac-maintenance.webp",
+        "srcset": "/images/service-hvac-maintenance-400w.webp 400w, /images/service-hvac-maintenance-800w.webp 800w, /images/service-hvac-maintenance-1200w.webp 1200w, /images/service-hvac-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
